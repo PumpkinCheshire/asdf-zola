@@ -18,7 +18,7 @@
 set -e
 set -o pipefail
 
-github_coordinates="PumpkinCheshire/zola"
+github_coordinates="PumpkinCheshire/zola-katex"
 tool_name="zola"
 
 install_tool() {
